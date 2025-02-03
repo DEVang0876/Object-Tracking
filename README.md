@@ -21,7 +21,7 @@ Installation
 Step 1: Clone the Repository
 Clone the repository to your local machine.
 
-git clone https://github.com/your-username/object-tracking.git
+git clone https://github.com/DEVang0876/object-tracking.git
 cd object-tracking
 Step 2: Set up the Python Environment
 It’s recommended to use a virtual environment for this project to manage dependencies.
